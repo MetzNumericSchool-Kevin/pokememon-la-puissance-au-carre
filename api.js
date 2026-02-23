@@ -5,7 +5,7 @@ function recupListePokemon() {
 }
 
 function choixMemo(listePoke) {
-  const selection = [...listePoke].sort(() => Math.random - 0.5).slice(0, 6);
+  const selection = [...listePoke].sort(() => Math.random() - 0.5).slice(0, 6);
 
   let choixMelange = [...selection, ...selection];
 
