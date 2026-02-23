@@ -1,3 +1,4 @@
+hello
 # Projet JavaScript - PokeMemon Game
 
 PokeMemon Game est un jeu de mémoire où l'objectif est de trouver les pokemons par paire pour les capturer.
